@@ -1,20 +1,20 @@
 ## LeetCode Solutions
 
-- **[001 Two Sum (Python)](LeetCode/001 Two Sum.py)**
-- **[003 Longest Substring Without Repeating Characters (Python)](LeetCode/003 Longest Substring Without Repeating Characters.py)**
-- **[004 Median of Two Sorted Arrays (Python)](LeetCode/004 Median of Two Sorted Arrays.py)**
-- **[005 Longest Palindromic Substring (Python)](LeetCode/005 Longest Palindromic Substring.py)**
-- **[007 Reverse Integer (Java)](LeetCode/007 Reverse Integer.java)**
-- **[104 Maximum Depth of Binary Tree (Python)](LeetCode/104 Maximum Depth of Binary Tree.py)**
-- **[136 Single Number (Python)](LeetCode/136 Single Number.py)**
-- **[412 Fizz Buzz (Python)](LeetCode/412 Fizz Buzz.py)**
-- **[461 Hamming Distance (Python)](LeetCode/461 Hamming Distance.py)**
-- **[595 Big Countries (SQL)](LeetCode/595 Big Countries.sql)**
-- **[709 To Lower Case (Python)](LeetCode/709 To Lower Case.py)**
-- **[771 Jewels and Stones (Python)](LeetCode/771 Jewels and Stones.py)**
-- **[832 Flipping an Image (Python)](LeetCode/832 Flipping an Image.py)**
-- **[872 Lead-Similar Trees (Python)](LeetCode/872 Lead-Similar Trees.py)**
-- **[Problem 100](LeetCode/ignore.poop)**
+- **[Problem #001 (Python)](LeetCode/001.py)**
+- **[Problem #003 (Python)](LeetCode/003.py)**
+- **[Problem #004 (Python)](LeetCode/004.py)**
+- **[Problem #005 (Python)](LeetCode/005.py)**
+- **[Problem #007 (Java)](LeetCode/007.java)**
+- **[Problem #104 (Python)](LeetCode/104.py)**
+- **[Problem #136 (Python)](LeetCode/136.py)**
+- **[Problem #412 (Python)](LeetCode/412.py)**
+- **[Problem #461 (Python)](LeetCode/461.py)**
+- **[Problem #595 (SQL)](LeetCode/595.sql)**
+- **[Problem #709 (Python)](LeetCode/709.py)**
+- **[Problem #771 (Python)](LeetCode/771.py)**
+- **[Problem #832 (Python)](LeetCode/832.py)**
+- **[Problem #872 (Python)](LeetCode/872.py)**
+
 
 [Project Euler Solutions](https://github.com/chrismarcok/Project-Euler)
 

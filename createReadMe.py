@@ -38,7 +38,7 @@ for x in lst:
         s = " (SQL)"
     elif x.endswith(".java"):
         s = " (Java)"
-    f.write("- **[" + removeExt(x) + s + "](LeetCode/" + x + ")**\n")
+    f.write("- **[Problem #" + removeExt(x) + s + "](LeetCode/" + x + ")**\n")
 f.write("\n\n")
 f.write("[Project Euler Solutions](https://github.com/chrismarcok/Project-Euler)\n\n")
 f.write("[My LeetCode Profile](https://leetcode.com/chrismarcok/)")
