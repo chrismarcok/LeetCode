@@ -14,11 +14,22 @@
 - **[Problem #136 (Python)](LeetCode/136.py)**
 - **[Problem #412 (Python)](LeetCode/412.py)**
 - **[Problem #461 (Python)](LeetCode/461.py)**
+- **[Problem #463 (Python)](LeetCode/463.py)**
+- **[Problem #500 (Python)](LeetCode/500.py)**
+- **[Problem #557 (Python)](LeetCode/557.py)**
+- **[Problem #561 (Python)](LeetCode/561.py)**
 - **[Problem #595 (SQL)](LeetCode/595.sql)**
+- **[Problem #620 (SQL)](LeetCode/620.sql)**
+- **[Problem #627 (SQL)](LeetCode/627.sql)**
+- **[Problem #657 (Python)](LeetCode/657.py)**
 - **[Problem #709 (Python)](LeetCode/709.py)**
+- **[Problem #728 (Python)](LeetCode/728.py)**
 - **[Problem #771 (Python)](LeetCode/771.py)**
+- **[Problem #804 (Python)](LeetCode/804.py)**
 - **[Problem #832 (Python)](LeetCode/832.py)**
+- **[Problem #852 (Python)](LeetCode/852.py)**
 - **[Problem #872 (Python)](LeetCode/872.py)**
+- **[Problem #876 (Python)](LeetCode/876.py)**
 
 
 [Project Euler Solutions](https://github.com/chrismarcok/Project-Euler)
