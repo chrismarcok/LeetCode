@@ -9,9 +9,9 @@ def extension(x):
     lst = x.split(".")
     return "." + lst[-1]
 
-def removeExt(x):
-    lst = x.split(".")
-    return lst[0]
+def getProbNum(x):
+
+    return x[0:3]
 
 # os.remove("README.md")
 f = open("README.txt","w+")
@@ -30,6 +30,11 @@ for x in lst:
         continue
 
     s = " (Unknown)"
+    a = ""
+
+    if "PLUS" in x:
+        a = " (Multiple Solutions)"
+
     if x.endswith(".py"):
         s = " (Python)"
     elif x.endswith(".txt"):
@@ -38,7 +43,7 @@ for x in lst:
         s = " (SQL)"
     elif x.endswith(".java"):
         s = " (Java)"
-    f.write("- **[Problem #" + removeExt(x) + s + "](LeetCode/" + x + ")**\n")
+    f.write("- **[Problem #" + getProbNum(x) + s + a + "](LeetCode/" + x + ")**\n")
 f.write("\n\n")
 f.write("[Project Euler Solutions](https://github.com/chrismarcok/Project-Euler)\n\n")
 f.write("[My LeetCode Profile](https://leetcode.com/chrismarcok/)")

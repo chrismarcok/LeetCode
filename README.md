@@ -10,6 +10,11 @@
 - **[Problem #009 (Python)](LeetCode/009.py)**
 - **[Problem #014 (Python)](LeetCode/014.py)**
 - **[Problem #020 (Python)](LeetCode/020.py)**
+- **[Problem #021 (Python)](LeetCode/021.py)**
+- **[Problem #028 (Python)](LeetCode/028.py)**
+- **[Problem #035 (Python)](LeetCode/035.py)**
+- **[Problem #058 (Python)](LeetCode/058.py)**
+- **[Problem #066 (Python) (Multiple Solutions)](LeetCode/066PLUS.py)**
 - **[Problem #104 (Python)](LeetCode/104.py)**
 - **[Problem #136 (Python)](LeetCode/136.py)**
 - **[Problem #412 (Python)](LeetCode/412.py)**
