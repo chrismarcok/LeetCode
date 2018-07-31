@@ -1,11 +1,14 @@
 ## LeetCode Solutions
 
 - **[Problem #001 (Python)](LeetCode/001.py)**
+- **[Problem #002 (Java)](LeetCode/002.java)**
 - **[Problem #003 (Python)](LeetCode/003.py)**
 - **[Problem #004 (Python)](LeetCode/004.py)**
 - **[Problem #005 (Python)](LeetCode/005.py)**
 - **[Problem #007 (Java)](LeetCode/007.java)**
 - **[Problem #008 (Python)](LeetCode/008.py)**
+- **[Problem #009 (Python)](LeetCode/009.py)**
+- **[Problem #014 (Python)](LeetCode/014.py)**
 - **[Problem #020 (Python)](LeetCode/020.py)**
 - **[Problem #104 (Python)](LeetCode/104.py)**
 - **[Problem #136 (Python)](LeetCode/136.py)**
