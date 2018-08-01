@@ -26,6 +26,7 @@ Problem # | Language | Difficulty
 [344](LeetCode/344E.py) | Python |  Easy 
 [371](LeetCode/371E.py) | Python |  Easy 
 [412](LeetCode/412E.py) | Python |  Easy 
+[434](LeetCode/434E.py) | Python |  Easy 
 [461](LeetCode/461E.py) | Python |  Easy 
 [463](LeetCode/463E.py) | Python |  Easy 
 [485](LeetCode/485E.py) | Python |  Easy 
@@ -41,8 +42,12 @@ Problem # | Language | Difficulty
 [728](LeetCode/728E.py) | Python |  Easy 
 [771](LeetCode/771E.py) | Python |  Easy 
 [804](LeetCode/804E.py) | Python |  Easy 
+[820](LeetCode/820M.py) | Python | Medium
+[824](LeetCode/824E.py) | Python |  Easy 
 [832](LeetCode/832E.py) | Python |  Easy 
+[836](LeetCode/836E.py) | Python |  Easy 
 [852](LeetCode/852E.py) | Python |  Easy 
+[867](LeetCode/867E.java) | Java |  Easy 
 [872](LeetCode/872E.py) | Python |  Easy 
 [876](LeetCode/876E.py) | Python |  Easy 
 

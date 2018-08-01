@@ -19,7 +19,7 @@ f = open("README.txt","w+")
 f.write("## LeetCode Solutions\n\n")
 
 lst = []
-for file in os.listdir("E:\Documents\GitHub\LeetCode\LeetCode"):
+for file in os.listdir("E:\Documents\GitHub\LeetCodeDir\LeetCode"):
     lst.append(os.path.join(file))
 lst.sort()
 
