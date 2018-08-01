@@ -23,6 +23,9 @@ for file in os.listdir("E:\Documents\GitHub\LeetCode\LeetCode"):
     lst.append(os.path.join(file))
 lst.sort()
 
+f.write("Problem # | Language | Difficulty\n")
+f.write(":---: | :---: | :---:\n")
+
 for x in lst:
     acceptedFileExts = [".py", '.java', '.sql', '.txt']
 
@@ -30,8 +33,8 @@ for x in lst:
         continue
 
     difficulty = ""
-    s = " (Unknown)"
-    a = ""
+    language = " (Unknown)"
+    multipleSolutions = ""
 
     if "E" in x:
         difficulty = " Easy "
@@ -41,17 +44,20 @@ for x in lst:
         difficulty = " Hard "
 
     if "PLUS" in x:
-        a = " (Multiple Solutions)"
+        multipleSolutions = " (Multiple Solutions)"
 
     if x.endswith(".py"):
-        s = " (Python)"
+        language = "Python"
     elif x.endswith(".txt"):
-        s = " (Text)"
+        language = "Text"
     elif x.endswith(".sql"):
-        s = " (SQL)"
+        language = "SQL"
     elif x.endswith(".java"):
-        s = " (Java)"
-    f.write("- **[Problem #" + getProbNum(x) +" ["+ difficulty+"]" + s + a  +"](LeetCode/" + x + ")**\n")
+        language = "Java"
+
+    f.write("[" + getProbNum(x) +"](LeetCode/" + x  + ") | " + language + " | " + difficulty + "\n")
+
+
 f.write("\n\n")
 f.write("[Project Euler Solutions](https://github.com/chrismarcok/Project-Euler)\n\n")
 f.write("[My LeetCode Profile](https://leetcode.com/chrismarcok/)")

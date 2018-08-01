@@ -1,48 +1,50 @@
 ## LeetCode Solutions
 
-- **[Problem #001 [ Easy ] (Python)](LeetCode/001E.py)**
-- **[Problem #002 [Medium] (Java)](LeetCode/002M.java)**
-- **[Problem #003 [Medium] (Python)](LeetCode/003M.py)**
-- **[Problem #004 [ Hard ] (Python)](LeetCode/004H.py)**
-- **[Problem #005 [Medium] (Python)](LeetCode/005M.py)**
-- **[Problem #007 [ Easy ] (Java)](LeetCode/007E.java)**
-- **[Problem #008 [Medium] (Python)](LeetCode/008M.py)**
-- **[Problem #009 [ Easy ] (Python)](LeetCode/009E.py)**
-- **[Problem #014 [ Easy ] (Python)](LeetCode/014E.py)**
-- **[Problem #020 [ Easy ] (Python)](LeetCode/020E.py)**
-- **[Problem #021 [ Easy ] (Python)](LeetCode/021E.py)**
-- **[Problem #028 [ Easy ] (Python)](LeetCode/028E.py)**
-- **[Problem #035 [ Easy ] (Python)](LeetCode/035E.py)**
-- **[Problem #058 [ Easy ] (Python)](LeetCode/058E.py)**
-- **[Problem #061 [Medium] (Python)](LeetCode/061M.py)**
-- **[Problem #062 [Medium] (Python)](LeetCode/062M.py)**
-- **[Problem #066 [ Easy ] (Python) (Multiple Solutions)](LeetCode/066PLUSE.py)**
-- **[Problem #083 [ Easy ] (Python)](LeetCode/083E.py)**
-- **[Problem #104 [ Easy ] (Python)](LeetCode/104E.py)**
-- **[Problem #136 [ Easy ] (Python)](LeetCode/136E.py)**
-- **[Problem #189 [ Easy ] (Python)](LeetCode/189E.py)**
-- **[Problem #344 [ Easy ] (Python)](LeetCode/344E.py)**
-- **[Problem #371 [ Easy ] (Python)](LeetCode/371E.py)**
-- **[Problem #412 [ Easy ] (Python)](LeetCode/412E.py)**
-- **[Problem #461 [ Easy ] (Python)](LeetCode/461E.py)**
-- **[Problem #463 [ Easy ] (Python)](LeetCode/463E.py)**
-- **[Problem #485 [ Easy ] (Python)](LeetCode/485E.py)**
-- **[Problem #500 [ Easy ] (Python)](LeetCode/500E.py)**
-- **[Problem #520 [ Easy ] (Python)](LeetCode/520E.py)**
-- **[Problem #557 [ Easy ] (Python)](LeetCode/557E.py)**
-- **[Problem #561 [ Easy ] (Python)](LeetCode/561E.py)**
-- **[Problem #595 [ Easy ] (SQL)](LeetCode/595E.sql)**
-- **[Problem #620 [ Easy ] (SQL)](LeetCode/620E.sql)**
-- **[Problem #627 [ Easy ] (SQL)](LeetCode/627E.sql)**
-- **[Problem #657 [ Easy ] (Python)](LeetCode/657E.py)**
-- **[Problem #709 [ Easy ] (Python)](LeetCode/709E.py)**
-- **[Problem #728 [ Easy ] (Python)](LeetCode/728E.py)**
-- **[Problem #771 [ Easy ] (Python)](LeetCode/771E.py)**
-- **[Problem #804 [ Easy ] (Python)](LeetCode/804E.py)**
-- **[Problem #832 [ Easy ] (Python)](LeetCode/832E.py)**
-- **[Problem #852 [ Easy ] (Python)](LeetCode/852E.py)**
-- **[Problem #872 [ Easy ] (Python)](LeetCode/872E.py)**
-- **[Problem #876 [ Easy ] (Python)](LeetCode/876E.py)**
+Problem # | Language | Difficulty
+:---: | :---: | :---:
+[001](LeetCode/001E.py) | Python |  Easy 
+[002](LeetCode/002M.java) | Java | Medium
+[003](LeetCode/003M.py) | Python | Medium
+[004](LeetCode/004H.py) | Python |  Hard 
+[005](LeetCode/005M.py) | Python | Medium
+[007](LeetCode/007E.java) | Java |  Easy 
+[008](LeetCode/008M.py) | Python | Medium
+[009](LeetCode/009E.py) | Python |  Easy 
+[014](LeetCode/014E.py) | Python |  Easy 
+[020](LeetCode/020E.py) | Python |  Easy 
+[021](LeetCode/021E.py) | Python |  Easy 
+[028](LeetCode/028E.py) | Python |  Easy 
+[035](LeetCode/035E.py) | Python |  Easy 
+[058](LeetCode/058E.py) | Python |  Easy 
+[061](LeetCode/061M.py) | Python | Medium
+[062](LeetCode/062M.py) | Python | Medium
+[066](LeetCode/066PLUSE.py) | Python |  Easy 
+[083](LeetCode/083E.py) | Python |  Easy 
+[104](LeetCode/104E.py) | Python |  Easy 
+[136](LeetCode/136E.py) | Python |  Easy 
+[189](LeetCode/189E.py) | Python |  Easy 
+[344](LeetCode/344E.py) | Python |  Easy 
+[371](LeetCode/371E.py) | Python |  Easy 
+[412](LeetCode/412E.py) | Python |  Easy 
+[461](LeetCode/461E.py) | Python |  Easy 
+[463](LeetCode/463E.py) | Python |  Easy 
+[485](LeetCode/485E.py) | Python |  Easy 
+[500](LeetCode/500E.py) | Python |  Easy 
+[520](LeetCode/520E.py) | Python |  Easy 
+[557](LeetCode/557E.py) | Python |  Easy 
+[561](LeetCode/561E.py) | Python |  Easy 
+[595](LeetCode/595E.sql) | SQL |  Easy 
+[620](LeetCode/620E.sql) | SQL |  Easy 
+[627](LeetCode/627E.sql) | SQL |  Easy 
+[657](LeetCode/657E.py) | Python |  Easy 
+[709](LeetCode/709E.py) | Python |  Easy 
+[728](LeetCode/728E.py) | Python |  Easy 
+[771](LeetCode/771E.py) | Python |  Easy 
+[804](LeetCode/804E.py) | Python |  Easy 
+[832](LeetCode/832E.py) | Python |  Easy 
+[852](LeetCode/852E.py) | Python |  Easy 
+[872](LeetCode/872E.py) | Python |  Easy 
+[876](LeetCode/876E.py) | Python |  Easy 
 
 
 [Project Euler Solutions](https://github.com/chrismarcok/Project-Euler)
