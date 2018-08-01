@@ -29,8 +29,16 @@ for x in lst:
     if extension(x) not in acceptedFileExts:
         continue
 
+    difficulty = ""
     s = " (Unknown)"
     a = ""
+
+    if "E" in x:
+        difficulty = " Easy "
+    elif "M" in x:
+        difficulty = "Medium"
+    else:
+        difficulty = " Hard "
 
     if "PLUS" in x:
         a = " (Multiple Solutions)"
@@ -43,7 +51,7 @@ for x in lst:
         s = " (SQL)"
     elif x.endswith(".java"):
         s = " (Java)"
-    f.write("- **[Problem #" + getProbNum(x) + s + a + "](LeetCode/" + x + ")**\n")
+    f.write("- **[Problem #" + getProbNum(x) +" ["+ difficulty+"]" + s + a  +"](LeetCode/" + x + ")**\n")
 f.write("\n\n")
 f.write("[Project Euler Solutions](https://github.com/chrismarcok/Project-Euler)\n\n")
 f.write("[My LeetCode Profile](https://leetcode.com/chrismarcok/)")
