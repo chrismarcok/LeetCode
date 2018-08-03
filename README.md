@@ -23,12 +23,14 @@ Problem # | Language | Difficulty
 [104](LeetCode/104E.py) | Python |  Easy 
 [136](LeetCode/136E.py) | Python |  Easy 
 [189](LeetCode/189E.py) | Python |  Easy 
+[256](LeetCode/256E.py) | Python |  Easy 
 [344](LeetCode/344E.py) | Python |  Easy 
 [371](LeetCode/371E.py) | Python |  Easy 
 [412](LeetCode/412E.py) | Python |  Easy 
 [434](LeetCode/434E.py) | Python |  Easy 
 [461](LeetCode/461E.py) | Python |  Easy 
 [463](LeetCode/463E.py) | Python |  Easy 
+[476](LeetCode/476E.py) | Python |  Easy 
 [485](LeetCode/485E.py) | Python |  Easy 
 [500](LeetCode/500E.py) | Python |  Easy 
 [520](LeetCode/520E.py) | Python |  Easy 
@@ -38,6 +40,7 @@ Problem # | Language | Difficulty
 [620](LeetCode/620E.sql) | SQL |  Easy 
 [627](LeetCode/627E.sql) | SQL |  Easy 
 [657](LeetCode/657E.py) | Python |  Easy 
+[693](LeetCode/693E.py) | Python |  Easy 
 [709](LeetCode/709E.py) | Python |  Easy 
 [728](LeetCode/728E.py) | Python |  Easy 
 [771](LeetCode/771E.py) | Python |  Easy 
