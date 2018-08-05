@@ -11,6 +11,7 @@ Problem # | Language | Difficulty
 [008](LeetCode/008M.py) | Python | Medium
 [009](LeetCode/009E.py) | Python |  Easy 
 [014](LeetCode/014E.py) | Python |  Easy 
+[019](LeetCode/019M.py) | Python | Medium
 [020](LeetCode/020E.py) | Python |  Easy 
 [021](LeetCode/021E.py) | Python |  Easy 
 [028](LeetCode/028E.py) | Python |  Easy 
@@ -19,10 +20,16 @@ Problem # | Language | Difficulty
 [061](LeetCode/061M.py) | Python | Medium
 [062](LeetCode/062M.py) | Python | Medium
 [066](LeetCode/066PLUSE.py) | Python |  Easy 
+[067](LeetCode/067E.py) | Python |  Easy 
 [083](LeetCode/083E.py) | Python |  Easy 
 [104](LeetCode/104E.py) | Python |  Easy 
+[125](LeetCode/125E.py) | Python |  Easy 
 [136](LeetCode/136E.py) | Python |  Easy 
+[160](LeetCode/160E.py) | Python |  Easy 
 [189](LeetCode/189E.py) | Python |  Easy 
+[206](LeetCode/206E.py) | Python |  Easy 
+[234](LeetCode/234E.py) | Python |  Easy 
+[237](LeetCode/237E.py) | Python |  Easy 
 [256](LeetCode/256E.py) | Python |  Easy 
 [344](LeetCode/344E.py) | Python |  Easy 
 [371](LeetCode/371E.py) | Python |  Easy 
