@@ -26,6 +26,8 @@ lst.sort()
 f.write("Problem # | Language | Difficulty\n")
 f.write(":---: | :---: | :---:\n")
 
+easyNum, medNum, hardNum = 0, 0, 0
+
 for x in lst:
     acceptedFileExts = [".py", '.java', '.sql', '.txt']
 
@@ -38,10 +40,13 @@ for x in lst:
 
     if "E" in x:
         difficulty = " Easy "
+        easyNum += 1
     elif "M" in x:
         difficulty = "Medium"
+        medNum += 1
     else:
         difficulty = " Hard "
+        hardNum += 1
 
     if "PLUS" in x:
         multipleSolutions = " (Multiple Solutions)"
@@ -57,6 +62,10 @@ for x in lst:
 
     f.write("[" + getProbNum(x) +"](LeetCode/" + x  + ") | " + language + " | " + difficulty + "\n")
 
+total = easyNum + medNum + hardNum
+f.write("\nEasy %: "+ str(easyNum / total * 100)[:5] +" \n")
+f.write("Medium %: "+ str(medNum / total * 100)[:5] +" \n")
+f.write("Hard %: "+ str(hardNum / total * 100)[:5] +" \n")
 
 f.write("\n\n")
 f.write("[Project Euler Solutions](https://github.com/chrismarcok/Project-Euler)\n\n")

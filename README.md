@@ -60,7 +60,13 @@ Problem # | Language | Difficulty
 [867](LeetCode/867E.java) | Java |  Easy 
 [872](LeetCode/872E.py) | Python |  Easy 
 [876](LeetCode/876E.py) | Python |  Easy 
+[935](LeetCode/935E.java) | Java |  Easy 
+[935](LeetCode/935E.py) | Python |  Easy 
 [954](LeetCode/954E.py) | Python |  Easy 
+
+Easy %: 85.24 
+Medium %: 13.11 
+Hard %: 1.639 
 
 
 [Project Euler Solutions](https://github.com/chrismarcok/Project-Euler)
