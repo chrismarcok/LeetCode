@@ -60,6 +60,7 @@ Problem # | Language | Difficulty
 [867](LeetCode/867E.java) | Java |  Easy 
 [872](LeetCode/872E.py) | Python |  Easy 
 [876](LeetCode/876E.py) | Python |  Easy 
+[954](LeetCode/954E.py) | Python |  Easy 
 
 
 [Project Euler Solutions](https://github.com/chrismarcok/Project-Euler)
