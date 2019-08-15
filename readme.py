@@ -10,8 +10,8 @@ def extension(x):
     return "." + lst[-1]
 
 def getProbNum(x):
-
-    return x[0:3]
+    index = x.index(".")
+    return x[0:index]
 
 # os.remove("README.md")
 f = open("README.txt","w+")
